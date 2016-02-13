@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<smilies_export>
+  <smilie_categories>
+    <smilie_category id="2" title="Animals" display_order="2"/>
+  </smilie_categories>
+  <smilies>
+    <smilie smilie_category_id="2" title="Dog" display_order="210" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/dog.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!dog:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Bear" display_order="220" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/bear.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!bear:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Boar" display_order="230" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/boar.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!boar:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Camel" display_order="240" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/camel.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!camel:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Cat" display_order="250" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/cat.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!cat:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Chicken" display_order="260" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/chicken.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!chicken:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Cow" display_order="270" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/cow.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!cow:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Frog" display_order="280" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/frog.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!frog:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Hamster" display_order="290" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/hamster.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!hamster:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Hear no evil Monkey" display_order="300" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/hear_no_evil_monkey.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!hear_no_evil_monkey:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Honeybee" display_order="310" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/honeybee.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!honeybee:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Horse" display_order="320" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/horse.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!horse:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Koala" display_order="330" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/koala.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!koala:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Lion" display_order="340" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/lion.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!lion:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Monkey" display_order="350" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/monkey.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!monkey:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Mouse" display_order="360" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/mouse.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!mouse:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Octopus" display_order="370" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/octopus.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!octopus:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Panda" display_order="380" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/panda.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!panda:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Pig" display_order="390" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/pig.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!pig:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Pig nose" display_order="400" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/pig_nose.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!pig_nose:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Rabbit" display_order="410" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/rabbit.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!rabbit:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="See no evil Monkey" display_order="420" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/see_no_evil_monkey.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!see_no_evil_monkey:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Speak no evil Monkey" display_order="430" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/speak_no_evil_monkey.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!speak_no_evil_monkey:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Tiger" display_order="440" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/tiger.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!tiger:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Unicorn" display_order="450" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/unicorn.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!unicorn:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Whale" display_order="460" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/whale.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!whale:</smilie_text>
+    </smilie>
+    <smilie smilie_category_id="2" title="Wolf" display_order="470" display_in_editor="1">
+        <image_url>styles/default/xenforo/smilies/animals/wolf.svg</image_url>
+      <sprite_params w="30" h="30" x="0" y="0"/>
+      <smilie_text>:!wolf:</smilie_text>
+    </smilie>
+  </smilies>
+</smilies_export>
